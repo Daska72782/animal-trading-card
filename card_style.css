@@ -1,0 +1,32 @@
+ul {
+    list-style-type: none;
+}
+ h3 {
+    border-style: solid;
+    border-width: 2px;
+    border-color: orange;
+    display: flex;
+    justify-content: center;
+    padding: 1px;
+    color: green;
+}
+  img {
+    width: 300px;
+    height: 300px;
+    border: 2px solid yellow;
+    
+}
+  p {
+    font-style: italic;
+    border: 2px solid orange;
+    padding: 1px;
+}
+  li {
+    font-weight: bold;
+    padding: 5px;
+}
+.index-name{
+    border: solid green;
+    padding: 5px;
+  
+}
